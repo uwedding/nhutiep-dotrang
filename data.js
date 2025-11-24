@@ -1818,7 +1818,7 @@ window.event_data = {
                     "appTarget": "",
                     "hoverColor": "",
                     "id": "21n9viyf",
-                    "target": "https://maps.app.goo.gl/sA3UeDZfJU6t69t87",
+                    "target": "https://maps.app.goo.gl/8XVKxmcvToizHrUA8",
                     "type": "click"
                 }],
                 "desktop": {
